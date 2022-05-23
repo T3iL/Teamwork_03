@@ -4,5 +4,6 @@
 
 1. Umieścić element CAnvas i wstawić testowy prostokąt [Wiktor].
 2. Dodać Playera (kółko) [Kacper]
+3. Obsługa ruchów z klawiatury [Kuba]
 
 Live share: https://prod.liveshare.vsengsaas.visualstudio.com/join?F4DB1622A2ABBC35843F95E1F02731FB61EB
