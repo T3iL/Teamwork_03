@@ -6,7 +6,7 @@
 2. Dodać Playera (kółko) [Kacper]
 3. Obsługa ruchów z klawiatury [Kuba]
 4. Stworzyć planszę w edytorze i odtworzyć projekcie [Wiktor]
-5. Dodać detekcję kolizji (ściany) []
+5. Dodać detekcję kolizji (ściany) [Wiktor]
 6. Zmienić playera na PACMANA (ruchy/odwracanie się)[]
 7. Stworzyć w programie graficznym duszka []
 8. Wczytać grafikę duszka do gry []
