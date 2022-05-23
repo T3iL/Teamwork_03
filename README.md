@@ -5,7 +5,7 @@
 1. Umieścić element CAnvas i wstawić testowy prostokąt [Wiktor].
 2. Dodać Playera (kółko) [Kacper]
 3. Obsługa ruchów z klawiatury [Kuba]
-4. Stworzyć planszę w edytorze i odtworzyć projekcie []
+4. Stworzyć planszę w edytorze i odtworzyć projekcie [Wiktor]
 5. Dodać detekcję kolizji (ściany) []
 6. Zmienić playera na PACMANA (ruchy/odwracanie się)[]
 7. Stworzyć w programie graficznym duszka []
