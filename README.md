@@ -12,8 +12,9 @@
 8. Wczytać grafikę duszka do gry [Kacper]
 9. Losowanie pozycji duszków (ilość duszków = parametr) [Pawel]
 10. Format planszy CSS [Maciek]
-11. Obsługa zdarzeń START, GAME OVER [Kamil]
+11. Obsługa zdarzeń START, GAME OVER, wyświetlanie wyniku [Kamil]
 12. Implementacja czasowej zmiany duszków w punkty [Maciek]
-13. Zliczanie punktów []
+13. Zliczanie punktów [Kuba]
+14. Animacja duszków (sprawdzanie czy może się ruszać) [Maciek]
 
 Live share: (83D53653583DE02](https://prod.liveshare.vsengsaas.visualstudio.com/join?0C4FECFE333D7F88D04FB9BF347FA0098ABB)
