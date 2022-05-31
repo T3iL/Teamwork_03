@@ -17,4 +17,4 @@
 13. Zliczanie punktów [Kuba]
 14. Animacja duszków (sprawdzanie czy może się ruszać) [Maciek]
 
-Live share: (83D53653583DE02](https://prod.liveshare.vsengsaas.visualstudio.com/join?0C4FECFE333D7F88D04FB9BF347FA0098ABB)
+Live share: (https://prod.liveshare.vsengsaas.visualstudio.com/join?8F9D4F6BD0B6D7D506E919C5405E21722939)
